@@ -3,6 +3,6 @@ var playlist = new Object({
   TheBlackKids: "I\'m not going to teach your boyfriend how to dance with you."
 });
 
-function updatePlaylist (obj, artist, song){
-  obj.artist = song;
+function updatePlaylist (a, b, c){
+  a.b = c;
 }
